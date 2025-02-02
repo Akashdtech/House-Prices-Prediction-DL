@@ -38,7 +38,7 @@ New Data Prediction:
 
 Outputs:
 
-    The model’s performance is reported with MSE and MAE.
-    The predicted price for the new housing sample is printed.
+        The model’s performance is reported with MSE and MAE.
+        The predicted price for the new housing sample is printed.
 
 This script demonstrates a complete machine learning pipeline, from data loading and preprocessing to model evaluation and prediction.
